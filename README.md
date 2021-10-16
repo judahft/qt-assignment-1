@@ -4,7 +4,9 @@ A desktop app for getting latest coin price.
 
 Built with Qt Framework and exchangerate API.
 
+# Preview output
 
+![Preview](./image/preview.png)
 
 # Example output
 
